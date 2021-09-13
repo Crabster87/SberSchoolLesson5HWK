@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SberSchoolLesson5HWK</string>
+    <string name="tic_tac_toe_name">TIC TAC TOE</string>
+    <string name="next_round_button">NEXT ROUND</string>
+    <string name="round_counter">Round</string>
+    <string name="toast_message_for_looser">YOU LOST!!!</string>
+    <string name="toast_message_for_winner">YOU WON!!!</string>
+</resources>
